@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Pati/Desktop/We_Call_It_A_Game/We_Call_It_A_Game/MyProject/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
+				"C:/Users/Pati/Desktop/We_Call_It_A_Game/We_Call_It_A_Game/MyProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Pati/Desktop/We_Call_It_A_Game/We_Call_It_A_Game/MyProject/Content/ThirdPerson/Blueprints/BP_CameraManager.uasset"
+			]
+		}
+	]
+}
